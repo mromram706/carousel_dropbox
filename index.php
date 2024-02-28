@@ -35,7 +35,7 @@ if (isset($_GET['code'])) {
     </head>
     <body>
 <h1>
-    Caruosel en dropbox inicia sesión
+    Carousel en dropbox inicia sesión
 </h1>
     <a class="btn btn-primary" href="<?php echo htmlspecialchars($authUrl); ?>">Iniciar sesión con Dropbox</a>
 
